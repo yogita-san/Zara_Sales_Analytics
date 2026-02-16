@@ -1,5 +1,5 @@
-# Zomato-reviews-analytics <br>
-Zomato app review analytics using SQL server and Power BI dashboard
+# Zara Sales Analytics <br>
+Zara Sales Analytics using SQL server and Power BI dashboard
 
 📌 Project Overview<br>
 This project analyzes retail sales data to identify pricing trends, seasonal patterns, product segmentation, sourcing concentration, and revenue drivers.<br>
