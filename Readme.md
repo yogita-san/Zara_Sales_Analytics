@@ -24,7 +24,7 @@ Microsoft SQL Server(MS SQL)<br>
 Power BI<br>
 Kaggle Public Dataset
 
-🔄 Project Workflow
+🔄 Project Workflow<br>
 1️⃣ Data Preparation & Exploratory Analysis (Python)<br>
 Handled missing values<br>
 Created calculated column:<br>
@@ -72,8 +72,8 @@ Interactive Controls<br>
 🔗[ Power BI file](Zara_sales_PBI.pbix)
 
 📸 Dashboard Preview:<br>
-[Main Dashboard]PBI_main_dashboard_page.png<br>
-[Drill through page]PBI_drill_through_page.png
+[Main Dashboard](PBI_main_dashboard_page.png)<br>
+[Drill through page](PBI_drill_through_page.png)
 
 📊 Key Insights<br>
 WOMAN section contributes the highest share of total revenue.<br>
