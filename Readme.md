@@ -34,7 +34,7 @@ Studied seasonal performance patterns<br>
 Evaluated gender-based segmentation (WOMAN vs MAN)<br>
 Explored revenue by material and origin<br>
 Identified high-performing product categories<br>
-🔗 View Python Notebook:(Zara_sales_python.ipynb)
+🔗 [Zara Sales Python Notebook](Zara_sales_python.ipynb)
 
 2️⃣ Business Analysis (MS SQL)<br>
 Key Queries Performed:<br>
@@ -52,7 +52,7 @@ ORDER BY<br>
 WHERE<br>
 Ntile()<br>
 Aggregate functions (SUM, AVG)<br>
-🔗 View SQL Query:(Zara_sales_SQL.sql)
+🔗  [Zara Sales SQL Query](Zara_sales_SQL.sql)
 
 3️⃣ Dashboard Development (Power BI)<br>
 Developed an interactive dashboard including:<br>
@@ -69,11 +69,11 @@ Ranking and Top performers<br>
 DAX Measures<br>
 Drill-through functionality<br>
 Interactive Controls<br>
-🔗 Power BI file:(Zara_sales_PBI.pbix)
+🔗[ Power BI file](Zara_sales_PBI.pbix)
 
 📸 Dashboard Preview:<br>
-![Main Dashboard]PBI_main_dashboard_page.png<br>
-![Drill through page]PBI_drill_through_page.png
+[Main Dashboard]PBI_main_dashboard_page.png<br>
+[Drill through page]PBI_drill_through_page.png
 
 📊 Key Insights<br>
 WOMAN section contributes the highest share of total revenue.<br>
