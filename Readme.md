@@ -90,7 +90,7 @@ The analysis highlights seasonal demand patterns, sourcing concentration, and op
 Kaggle – Zara Sales Dataset  <br>
 [View on Kaggle](https://www.kaggle.com/datasets/marixe/zara-sales-for-eda)<br>
 **License:** Apache 2.0  <br>
-The dataset was reviewed and validated using Python to ensure data quality and consistency. Basic exploratory checks were performed before proceeding <br>
+The dataset was reviewed and validated using Python to ensure data quality and consistency. Basic exploratory checks were performed before proceeding 
 with analysis.<br>
 **Cleaned Dataset Used in This Project:**  <br>
 [Download Cleaned Dataset](Zara_Cleaned_Data.csv)
